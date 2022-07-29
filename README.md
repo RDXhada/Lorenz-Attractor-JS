@@ -2,7 +2,7 @@
 ```
 Lorenz Attractor using three.js
 ```
-# - Steps to Run the program:
+# Steps to Run the program:
 ## 1) Download the files.
 ## 2) Open Visual Studio Code.
 ## 3) Open the Lorenz-Attractor file.
